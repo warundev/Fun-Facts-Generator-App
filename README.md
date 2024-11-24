@@ -26,7 +26,7 @@ This app was created as a capstone project for the **GenAI 101 workshop**. It en
 - AI-powered functionality with Pieces tools  
 
 ## Live Demo  
-Stay tuned for the live demo hosted on GitHub Pages!  
+Stay tuned for the live demo hosted on GitHub Pages!  https://warundev.github.io/Fun-Facts-Generator-App/
 
 ---
 
